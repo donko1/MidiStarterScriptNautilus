@@ -5,7 +5,7 @@
 sudo apt-get install wildmidi
 ```
 ```bash
-git clone git@github.com:donko1/MidiStarterScriptNautilus.git
+git clone https://github.com/donko1/MidiStarterScriptNautilus.git
 ```
 ```bash
 cd MidiStarterScriptNautilus
